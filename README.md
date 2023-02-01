@@ -1,3 +1,35 @@
+
+## 登录
+
+管理员账号
+账号：min
+邮箱：demo@qq.com
+密码：Admin123
+
+## 项目启动
+
+node 版本 >= 16
+
+```
+npm install
+npm run develop
+```
+
+## 注意事项
+为方便还原课程配置内容，.tmp及.cache等数据缓存信息一并提交，正常项目使用可在 .gitignore 中忽略该两项的变更
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
