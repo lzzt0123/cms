@@ -1,9 +1,8 @@
-'use strict';
-
+"use strict";
 /**
  * advertisement controller
  */
 
-const { createCoreController } = require('@strapi/strapi').factories;
+const { createCoreController } = require("@strapi/strapi").factories;
 
-module.exports = createCoreController('api::advertisement.advertisement');
+module.exports = createCoreController("api::advertisement.advertisement");
