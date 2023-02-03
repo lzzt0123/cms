@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "article_tabs",
+  "info": {
+    "singularName": "article-tab",
+    "pluralName": "article-tabs",
+    "displayName": "ArticleTab"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    }
+  }
+}
