@@ -39,6 +39,9 @@
     },
     "url": {
       "type": "string"
+    },
+    "AuthorName": {
+      "type": "string"
     }
   }
 }
